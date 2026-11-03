@@ -1,0 +1,19 @@
+{
+  "name": "groups_1",
+  "model": "evp",
+  "G": [
+    1.0
+  ],
+  "yield_strain": [
+    0.42
+  ],
+  "gamma0": 1.0,
+  "omega": 1.0,
+  "Ge": 0.1,
+  "eta_s": 0.02,
+  "rate0": 20.0,
+  "exponent": 3.0,
+  "recovery_time": 1.0,
+  "breakdown": 1.0,
+  "ymin_fraction": 0.35
+}

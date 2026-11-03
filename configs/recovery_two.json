@@ -1,0 +1,21 @@
+{
+  "name": "recovery_two",
+  "model": "recovery",
+  "G": [
+    0.5,
+    0.5
+  ],
+  "yield_strain": [
+    0.2,
+    0.3
+  ],
+  "recovery_time": 1.0,
+  "breakdown": 1.0,
+  "ymin_fraction": 0.35,
+  "gamma0": 1.0,
+  "omega": 1.0,
+  "Ge": 0.1,
+  "eta_s": 0.02,
+  "rate0": 20.0,
+  "exponent": 3.0
+}
